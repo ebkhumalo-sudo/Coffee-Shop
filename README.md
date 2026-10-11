@@ -1,4 +1,6 @@
-Ptoject Overview:
+Coffee Shop Case Study
+
+Project Overview:
 
 For this assignment, I was a data analyst who was tasked with giving the CEO all the information regarding the performance of the coffee shops in their different locations. Some of the insights acquired include, showing the overall revenue of the shops, revenue over the weekend and weekdays, sales throughout the week (checking which days have more sales than the others). I also looked at which time of the day had the most sales. Performance of the different beverages was also looked at, looking at the most popular category and type of product detail mostly preferred. Insights gathered showed that the 3 stores performance was relatively similar. The most preferred beverage is coffee, followed by tea and the busiest time of the day is mornings. 
 
